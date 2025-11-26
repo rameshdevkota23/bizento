@@ -183,7 +183,7 @@
 <!-- /wp:group -->
 
 <!-- wp:heading {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}},"typography":{"fontSize":"24px","fontStyle":"normal","fontWeight":"700"},"color":{"text":"#003a36"},"elements":{"link":{"color":{"text":"#003a36"}}}}} -->
-<h2 class="wp-block-heading has-text-color has-link-color" style="color:#003a36;margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40);font-size:24px;font-style:normal;font-weight:700"><div class="Extra curricular Activities"></div></h2>
+<h2 class="wp-block-heading has-text-color has-link-color" style="color:#003a36;margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40);font-size:24px;font-style:normal;font-weight:700"><div class="Extra curricular Activities"></div><?php echo esc_html__('Career Services', 'bizento'); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"1rem","lineHeight":"1.5"},"color":{"text":"#444d4d"},"elements":{"link":{"color":{"text":"#444d4d"}}},"spacing":{"margin":{"top":"var:preset|spacing|20"}}},"fontFamily":"inter"} -->
