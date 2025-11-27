@@ -13,7 +13,7 @@
 <div class="wp-block-column"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
 <div class="wp-block-column has-white-color has-text-color has-link-color"><!-- wp:heading {"style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"700"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"hind"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__('Gallery', 'bizento'); ?></h2>
+<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700">Gallery</h2>
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"columns":2,"linkTo":"none","sizeSlug":"full"} -->
@@ -33,7 +33,7 @@
 
 <!-- wp:column {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
 <div class="wp-block-column has-white-color has-text-color has-link-color"><!-- wp:heading {"style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"700"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"hind"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__('Pages', 'bizento'); ?></h2>
+<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700">Pages</h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"},"color":{"text":"#7e7f7c"}},"layout":{"type":"constrained"}} -->
@@ -57,7 +57,7 @@
 
 <!-- wp:column {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
 <div class="wp-block-column has-white-color has-text-color has-link-color"><!-- wp:heading {"style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"700"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"hind"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__('Informations', 'bizento'); ?></h2>
+<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700">Informations</h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"},"color":{"text":"#7e7f7c"}},"layout":{"type":"constrained"}} -->
@@ -81,7 +81,7 @@
 
 <!-- wp:column {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
 <div class="wp-block-column has-white-color has-text-color has-link-color"><!-- wp:heading {"style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"700"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontFamily":"hind"} -->
-<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__('Links', 'bizento'); ?></h2>
+<h2 class="wp-block-heading has-primary-color has-text-color has-link-color has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700">Links</h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"},"color":{"text":"#7e7f7c"}},"layout":{"type":"constrained"}} -->
@@ -99,6 +99,10 @@
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
 <p class="has-primary-color has-text-color has-link-color"><?php echo esc_html__('Contact Us', 'bizento'); ?></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"bizento-scrool-top"} -->
+<p class="bizento-scrool-top"></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>

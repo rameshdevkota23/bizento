@@ -1,24 +1,24 @@
 /* Theme Info */
 /* styles for admin page */
 
-.bizento--about-page--wrapper {
+.bizora--about-page--wrapper {
   max-width: 1200px;
   margin: 40px auto;
   padding: 40px;
   background-color: #fff;
 }
 
-.bizento--about-page--wrapper .feature-list {
+.bizora--about-page--wrapper .feature-list {
   display: block;
 }
-.bizento--about-page--wrapper .bizento-header-left > .fs-notice {
+.bizora--about-page--wrapper .bizora-header-left > .fs-notice {
   display: none !important;
 }
-.bizento-header-left h2 {
+.bizora-header-left h2 {
   color: #00265e !important;
 }
 
-.bizento--about-page--wrapper .bizento-admin-card-header {
+.bizora--about-page--wrapper .bizora-admin-card-header {
   display: grid;
   grid-gap: 30px;
   grid-template-columns: 1fr 1fr;
@@ -32,30 +32,30 @@
   border-radius: 4px;
   margin: 0 0 30px 0;
 }
-.bizento-admin-card-header {
+.bizora-admin-card-header {
   color: #00265e;
 }
-.bizento--about-page--wrapper .bizento-admin-card-header h2 {
+.bizora--about-page--wrapper .bizora-admin-card-header h2 {
   margin: 0;
 
   font-size: 3rem;
   line-height: 1.2;
 }
-.bizento--about-page--wrapper .bizento-admin-card-header p {
+.bizora--about-page--wrapper .bizora-admin-card-header p {
   color: #00265e;
 }
-.bizento--about-page--wrapper .bizento-header-right {
+.bizora--about-page--wrapper .bizora-header-right {
   justify-self: flex-end;
 }
 
-#bizento-admin-about-page p,
-#bizento-admin-about-page {
+#bizora-admin-about-page p,
+#bizora-admin-about-page {
   font-size: 17px;
   line-height: 1.7;
   margin: 0 0 15px;
 }
 
-.bizento-admin-button {
+.bizora-admin-button {
   padding: 10px 30px;
   text-decoration: inherit;
   background: #ff6600;
@@ -69,47 +69,47 @@
   border: none;
   border-radius: 35px;
 }
-.bizento-admin-button.premium-button {
+.bizora-admin-button.premium-button {
   margin-left: 5px;
   color: #fff;
 }
-.bizento-admin-button:hover {
+.bizora-admin-button:hover {
   background: #00265e;
   color: #fff;
 }
 
-.bizento-about-side {
+.bizora-about-side {
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
   margin: 30px 0;
   box-shadow: 1px 1px 10px -7px black;
 }
-.bizento-about-side .bizento-admin-card {
+.bizora-about-side .bizora-admin-card {
   background: rgb(248, 248, 248);
   padding: 50px;
   border-radius: 5px;
   color: #00265e;
   text-align: center;
 }
-.bizento-about-side .bizento-admin-card h3 {
+.bizora-about-side .bizora-admin-card h3 {
   font-size: 2rem;
   line-height: 1.5;
   margin: 0 0 15px 0;
   color: #00265e;
 }
-.bizento-about-side .bizento-admin-card .bizento-admin-button {
+.bizora-about-side .bizora-admin-card .bizora-admin-button {
   margin-top: 5px;
   display: inline-block;
 }
-.bizento-about-side .bizento-admin-card p,
-.bizento-about-side .bizento-admin-card h4 {
+.bizora-about-side .bizora-admin-card p,
+.bizora-about-side .bizora-admin-card h4 {
   font-size: 17px;
   line-height: 1.7;
   margin: 0 0 15px;
 }
 
-.bizento-card-header-button-group {
+.bizora-card-header-button-group {
   text-align: center;
   display: flex;
   align-items: center;
@@ -117,28 +117,28 @@
   justify-content: center;
 }
 
-.bizento-compare-table-subtitle {
+.bizora-compare-table-subtitle {
   font-size: 16px;
 }
 
-.bizento-compare-table-subtitle a,
+.bizora-compare-table-subtitle a,
 .olive-one-click-demo-import-banner p a {
   text-decoration: none;
   color: #ff6600 !important;
 }
-.bizento-compare-table-subtitle a:hover {
+.bizora-compare-table-subtitle a:hover {
   color: #00265e !important;
 }
-.bizento-compare-table-subtitle a:hover,
+.bizora-compare-table-subtitle a:hover,
 .olive-one-click-demo-import-banner p a {
   color: #00265e;
 }
-.bizento-compare-table-subtitle a i {
+.bizora-compare-table-subtitle a i {
   font-size: 15px;
   line-height: 2.2;
 }
 
-.bizento-compare-table table {
+.bizora-compare-table table {
   border: none;
   border-collapse: collapse;
   border-spacing: 0;
@@ -147,27 +147,27 @@
   color: #000;
   box-shadow: 0 0 33px #0000001a;
 }
-.bizento-compare-table table th {
+.bizora-compare-table table th {
   border-bottom: 1px solid #ffffff;
   padding: 15px;
   color: #00265e;
   
 }
-.bizento-compare-table table td {
+.bizora-compare-table table td {
   padding: 1em;
   text-align: center;
   color: #00265e;
 }
-.bizento-compare-table table td span {
+.bizora-compare-table table td span {
   font-size: 21px;
   border-radius: 100%;
   padding: 5px;
   color: #d72b2b;
 }
-.bizento-compare-table table td span.dashicons.dashicons-yes {
+.bizora-compare-table table td span.dashicons.dashicons-yes {
   text-align: center;
   color: #4caf50;
 }
-.bizento-compare-table table tr:nth-child(2n) td {
+.bizora-compare-table table tr:nth-child(2n) td {
   background: #def0ff;
 }

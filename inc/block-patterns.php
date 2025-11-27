@@ -16,7 +16,9 @@
 function bizento_register_block_patterns()
 {
 	$block_pattern_categories = array(
-		'bizento' => array('label' => esc_html__('bizento', 'bizento')),
+		'bizento-pro' => array('label' => esc_html__('Bizento Pro', 'bizento')),
+		'bizento' => array('label' => esc_html__('Bizento', 'bizento')),
+		
 	);
 
 	/**

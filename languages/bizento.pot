@@ -1,9 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Bizento\n"
+"Project-Id-Version: Bizento Pro\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-26 13:58+0000\n"
+"POT-Creation-Date: 2025-11-27 16:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -16,17 +16,24 @@ msgstr ""
 "X-Loco-Version: 2.8.0; wp-6.8.3; php-8.1.10\n"
 "X-Domain: bizento"
 
-#: inc/admin/theme-info.php:297
-msgid ""
-"\"Fearless Setup - Our Dedicated Team will have your website up in minutes"
+#: patterns/pricing.php:32
+msgid "$100"
+msgstr ""
+
+#: patterns/pricing.php:124
+msgid "$180"
+msgstr ""
+
+#: patterns/pricing.php:78
+msgid "$250"
 msgstr ""
 
 #: patterns/attributes.php:112
 msgid "$42M"
 msgstr ""
 
-#: inc/admin/theme-info.php:52
-msgid "( Limited blocks available )"
+#: patterns/banner-pro.php:17
+msgid "+1987 123456"
 msgstr ""
 
 #: patterns/contact-us.php:130
@@ -49,10 +56,6 @@ msgstr ""
 msgid "15:1"
 msgstr ""
 
-#: inc/admin/theme-info.php:95
-msgid "24/7 premium support"
-msgstr ""
-
 #: patterns/about-us.php:26
 msgid "25+"
 msgstr ""
@@ -63,10 +66,6 @@ msgstr ""
 
 #: patterns/404.php:13
 msgid "404"
-msgstr ""
-
-#: inc/admin/theme-info.php:106
-msgid "50+"
 msgstr ""
 
 #: patterns/attributes.php:50
@@ -81,6 +80,14 @@ msgstr ""
 msgid "About Us"
 msgstr ""
 
+#: patterns/team.php:109
+msgid "Academic Coordinator"
+msgstr ""
+
+#: patterns/about-pro.php:45
+msgid "Academic Excellence"
+msgstr ""
+
 #: patterns/services.php:32
 msgid "Academic Instruction"
 msgstr ""
@@ -89,16 +96,12 @@ msgstr ""
 msgid "Academic Programs"
 msgstr ""
 
-#: functions.php:118
+#: functions.php:120
 msgid "Admin Icon"
 msgstr ""
 
 #: patterns/services.php:224
 msgid "Administrative Services"
-msgstr ""
-
-#: inc/admin/theme-info.php:150
-msgid "Advanced Templates"
 msgstr ""
 
 #: patterns/faq.php:45 patterns/faq.php:57
@@ -108,34 +111,20 @@ msgid ""
 "Fusce commodo aliquam arcu."
 msgstr ""
 
-#: inc/admin/theme-info.php:249
-msgid "Animation"
-msgstr ""
-
 #: patterns/student-life.php:94
 msgid "Arts"
+msgstr ""
+
+#: patterns/pricing.php:120
+msgid "Arts Stream"
 msgstr ""
 
 #: patterns/404.php:26
 msgid "Back to Home"
 msgstr ""
 
-#: inc/admin/theme-info.php:141
-msgid "Better Customization Without Code"
-msgstr ""
-
-#. Name of the theme
+#: inc/block-patterns.php:20
 msgid "Bizento"
-msgstr ""
-
-#: inc/block-patterns.php:19
-msgid "bizento"
-msgstr ""
-
-#: inc/admin/theme-info.php:18
-msgid ""
-"Bizento - A Multipurpose, browser & device-friendly Full Site Editing Theme "
-"for WordPress"
 msgstr ""
 
 #. Description of the theme
@@ -152,27 +141,20 @@ msgid ""
 "demo:  https://demos.trendthemeswp.com/bizento"
 msgstr ""
 
-#: inc/admin/theme-notice.php:2
+#. Name of the theme
+#: inc/block-patterns.php:19
 msgid "Bizento Pro"
 msgstr ""
 
-#: inc/admin/theme-info.php:59
-msgid "bizento Pro ( More Blocks & Settings available )"
-msgstr ""
-
-#: class/admin-info.php:24 class/admin-info.php:25
-msgid "bizento Theme"
-msgstr ""
-
-#: inc/admin/theme-info.php:104
-msgid "Block Patterns"
+#: inc/tgm-plugin/tgmpa-hook.php:69
+msgid "Blocks Animation"
 msgstr ""
 
 #: patterns/contact-us.php:126
 msgid "Call Direct"
 msgstr ""
 
-#: patterns/services.php:148
+#: patterns/services.php:148 patterns/services.php:186
 msgid "Career Services"
 msgstr ""
 
@@ -182,6 +164,14 @@ msgstr ""
 
 #: patterns/services.php:18
 msgid "Check Our"
+msgstr ""
+
+#: patterns/pricing.php:42 patterns/pricing.php:88 patterns/pricing.php:134
+msgid "Choose Plans"
+msgstr ""
+
+#: patterns/team.php:170
+msgid "Collaborative crew, measurable impact"
 msgstr ""
 
 #: patterns/contact-us.php:106
@@ -314,12 +304,23 @@ msgctxt "Color name"
 msgid "Transparent"
 msgstr ""
 
+#: patterns/pricing.php:74
+msgid "Commerce Stream"
+msgstr ""
+
 #: patterns/services.php:45
 msgid "Competitive Positioning"
 msgstr ""
 
 #: patterns/footer.php:97
 msgid "Conditions"
+msgstr ""
+
+#: patterns/team.php:45 patterns/team.php:79 patterns/team.php:113
+#: patterns/team.php:147
+msgid ""
+"Consequatur illum numquam doloremque, sed vitae ipsa dolores. Aspernatur "
+"dicta facilis incidunt."
 msgstr ""
 
 #: patterns/contact-us.php:17
@@ -331,8 +332,25 @@ msgstr ""
 msgid "Contact Us"
 msgstr ""
 
+#: patterns/faq-pro.php:60
+msgid ""
+"Contact us via our website or phone. Well schedule a free consultation to "
+"understand your needs and recommend the best way forward."
+msgstr ""
+
+#: patterns/pricing.php:49 patterns/pricing.php:53 patterns/pricing.php:57
+#: patterns/pricing.php:61 patterns/pricing.php:95 patterns/pricing.php:99
+#: patterns/pricing.php:103 patterns/pricing.php:107 patterns/pricing.php:141
+#: patterns/pricing.php:145 patterns/pricing.php:149 patterns/pricing.php:153
+msgid "Conubia fuga irure ab primis."
+msgstr ""
+
 #: patterns/footer.php:73
 msgid "Cookies Policy"
+msgstr ""
+
+#: patterns/features-pro.php:26
+msgid "Courses Offered"
 msgstr ""
 
 #: patterns/student-life.php:94
@@ -379,7 +397,7 @@ msgstr ""
 msgid "Digital Transformation"
 msgstr ""
 
-#: patterns/banner.php:48
+#: patterns/banner-pro.php:90 patterns/banner.php:48
 msgid "Discover Programs"
 msgstr ""
 
@@ -389,10 +407,6 @@ msgstr ""
 
 #: patterns/faq.php:44 patterns/faq.php:56
 msgid "Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem."
-msgstr ""
-
-#: inc/admin/theme-info.php:189
-msgid "Drag and Drop functionality"
 msgstr ""
 
 #: patterns/student-life.php:56 patterns/student-life.php:76
@@ -406,12 +420,16 @@ msgid ""
 "eu fugiat nulla pariatur excepteur sint occaecat."
 msgstr ""
 
-#: inc/admin/theme-info.php:68
-msgid "Easy Setup"
+#: patterns/banner-pro.php:71
+msgid "Education"
 msgstr ""
 
 #: patterns/testimonials.php:112
 msgid "Emma Thompson"
+msgstr ""
+
+#: patterns/banner-pro.php:71
+msgid "Empowering Futures Through "
 msgstr ""
 
 #: patterns/banner.php:32
@@ -422,12 +440,20 @@ msgstr ""
 msgid "Empowering Minds"
 msgstr ""
 
-#: inc/admin/theme-info.php:239
-msgid "Enable Sticky Header"
+#: inc/tgm-plugin/tgmpa-hook.php:64
+msgid "Essential Blocks"
+msgstr ""
+
+#: patterns/team.php:71
+msgid "Ethan Brooks"
 msgstr ""
 
 #: patterns/attributes.php:14
 msgid "Excellence in Education for Over 50 Years"
+msgstr ""
+
+#: patterns/about-pro.php:87
+msgid "Experienced Faculty"
 msgstr ""
 
 #: patterns/testimonials.php:26
@@ -457,20 +483,12 @@ msgstr ""
 msgid "Explore More"
 msgstr ""
 
-#: patterns/services.php:186
-msgid "Extracurricular Activities"
-msgstr ""
-
 #: patterns/about-us.php:54
 msgid "FACULTY"
 msgstr ""
 
 #: patterns/faq.php:16
 msgid "FAQ"
-msgstr ""
-
-#: inc/admin/theme-info.php:56
-msgid "Features"
 msgstr ""
 
 #: patterns/services.php:117
@@ -486,24 +504,16 @@ msgctxt "Font family name"
 msgid "Inter"
 msgstr ""
 
-#: inc/admin/theme-info.php:51
-msgid "Free"
-msgstr ""
-
-#: inc/admin/theme-info.php:39
-msgid "Free Vs Pro"
-msgstr ""
-
-#: patterns/faq.php:21 patterns/faq.php:26
+#: patterns/faq-pro.php:21 patterns/faq.php:21 patterns/faq.php:26
 msgid "Freequently Asked Questions."
-msgstr ""
-
-#: inc/admin/theme-info.php:180
-msgid "Frequent Updates"
 msgstr ""
 
 #: patterns/footer.php:77
 msgid "Frequently asked"
+msgstr ""
+
+#: patterns/about-pro.php:25
+msgid "Full Potential"
 msgstr ""
 
 #: patterns/footer.php:69
@@ -514,32 +524,16 @@ msgstr ""
 msgid "Fusce ac felis sit amet"
 msgstr ""
 
-#: patterns/footer.php:16 patterns/footer.php:53
+#: patterns/footer.php:53
 msgid "Gallery"
 msgstr ""
 
-#: inc/admin/theme-notice.php:5
-msgid "Get Bizento Pro"
-msgstr ""
-
-#: inc/admin/theme-info.php:304
-msgid "Get Premium Version"
-msgstr ""
-
-#: patterns/banner.php:22
+#: patterns/banner-pro.php:60 patterns/banner.php:22
 msgid "Get Started"
-msgstr ""
-
-#: inc/admin/theme-info.php:300
-msgid "Get Support"
 msgstr ""
 
 #: patterns/student-life.php:114
 msgid "Global Experiences"
-msgstr ""
-
-#: inc/admin/theme-info.php:169
-msgid "Global Style Variations"
 msgstr ""
 
 #: theme.json:1
@@ -614,16 +608,12 @@ msgstr ""
 msgid "Growth Strategies"
 msgstr ""
 
-#: inc/admin/theme-info.php:227
-msgid "Gutenberg block editor"
-msgstr ""
-
-#: inc/admin/theme-info.php:97
-msgid "High-Priority Dedicated Support"
-msgstr ""
-
 #: patterns/footer.php:45
 msgid "Home"
+msgstr ""
+
+#: patterns/faq-pro.php:59
+msgid "How do we get started?"
 msgstr ""
 
 #. Author URI of the theme
@@ -631,11 +621,7 @@ msgid "https://trendthemeswp.com"
 msgstr ""
 
 #. URI of the theme
-msgid "https://trendthemeswp.com/products/bizento/"
-msgstr ""
-
-#: inc/admin/theme-info.php:269
-msgid "Icon Picker"
+msgid "https://trendthemeswp.com/products/bizento-pro/"
 msgstr ""
 
 #: patterns/testimonials.php:38
@@ -644,16 +630,12 @@ msgid ""
 "challenges and competitive positioning."
 msgstr ""
 
-#: inc/admin/theme-info.php:209
-msgid "Import components/ templates"
-msgstr ""
-
-#: patterns/contact-us.php:67
+#: patterns/banner-pro.php:21 patterns/contact-us.php:67
 msgid "info@example.com"
 msgstr ""
 
-#: patterns/footer.php:60
-msgid "Informations"
+#: patterns/about-pro.php:65
+msgid "Innovative Learning"
 msgstr ""
 
 #: patterns/why-us.php:97
@@ -682,13 +664,18 @@ msgstr ""
 msgid "IT Strategy"
 msgstr ""
 
+#: patterns/banner-pro.php:71
+msgid "Leadership"
+msgstr ""
+
 #: patterns/services.php:157
 msgid "Leadership Development"
 msgstr ""
 
-#: patterns/attributes.php:24 patterns/services.php:55 patterns/services.php:93
-#: patterns/services.php:131 patterns/services.php:171
-#: patterns/services.php:209 patterns/services.php:247
+#: patterns/about-pro.php:120 patterns/attributes.php:24
+#: patterns/services.php:55 patterns/services.php:93 patterns/services.php:131
+#: patterns/services.php:171 patterns/services.php:209
+#: patterns/services.php:247
 msgid "Learn More"
 msgstr ""
 
@@ -698,18 +685,6 @@ msgstr ""
 
 #: patterns/services.php:70
 msgid "Library Services"
-msgstr ""
-
-#: inc/admin/theme-info.php:122
-msgid "Lifetime Updates"
-msgstr ""
-
-#: inc/admin/theme-info.php:197 inc/admin/theme-info.php:206
-msgid "Limited"
-msgstr ""
-
-#: patterns/footer.php:84
-msgid "Links"
 msgstr ""
 
 #: patterns/banner.php:36
@@ -735,24 +710,26 @@ msgstr ""
 msgid "Market Research"
 msgstr ""
 
+#: patterns/team.php:12
+msgid "Meet Our Academic Leaders"
+msgstr ""
+
+#: patterns/pricing.php:37 patterns/pricing.php:83 patterns/pricing.php:129
+msgid "Minim recusandae, volutpat magna, class, adipiscing, consec."
+msgstr ""
+
 #: patterns/contact-us.php:110
 msgid "mon-sat: (8AM -7 PM)"
 msgstr ""
 
-#: inc/admin/theme-info.php:159
-msgid "Multiple Header/Footer Layouts"
-msgstr ""
-
-#: inc/admin/theme-info.php:131
-msgid "No coding required"
-msgstr ""
-
-#: inc/admin/theme-info.php:218
-msgid "One Click Demo Import"
-msgstr ""
-
 #: patterns/services.php:83
 msgid "Organizational Change"
+msgstr ""
+
+#: patterns/faq-pro.php:54
+msgid ""
+"Our fees depend on project scope, duration, and complexity. We offer "
+"transparent pricing with flexible packages to match your budget and needs."
 msgstr ""
 
 #: patterns/features.php:24
@@ -767,17 +744,22 @@ msgstr ""
 msgid "Our Vision"
 msgstr ""
 
-#: patterns/404.php:17
-msgid "Page not found"
+#: patterns/about-pro.php:107
+msgid "Outstanding Results"
 msgstr ""
 
-#: patterns/footer.php:36
-msgid "Pages"
+#: patterns/404.php:17
+msgid "Page not found"
 msgstr ""
 
 #: patterns/404.php:2
 msgctxt "Pattern title"
 msgid "404"
+msgstr ""
+
+#: patterns/about-pro.php:2
+msgctxt "Pattern title"
+msgid "About Pro"
 msgstr ""
 
 #: patterns/about-us.php:2
@@ -795,6 +777,11 @@ msgctxt "Pattern title"
 msgid "Banner"
 msgstr ""
 
+#: patterns/banner-pro.php:2
+msgctxt "Pattern title"
+msgid "Banner Pro"
+msgstr ""
+
 #: patterns/call-to-action.php:2
 msgctxt "Pattern title"
 msgid "Call To Action"
@@ -810,9 +797,19 @@ msgctxt "Pattern title"
 msgid "FAQ"
 msgstr ""
 
+#: patterns/faq-pro.php:2
+msgctxt "Pattern title"
+msgid "Faq Pro"
+msgstr ""
+
 #: patterns/features.php:2
 msgctxt "Pattern title"
 msgid "Features"
+msgstr ""
+
+#: patterns/features-pro.php:2
+msgctxt "Pattern title"
+msgid "Features Pro"
 msgstr ""
 
 #: patterns/footer.php:2
@@ -830,6 +827,11 @@ msgctxt "Pattern title"
 msgid "Page Banner"
 msgstr ""
 
+#: patterns/pricing.php:2
+msgctxt "Pattern title"
+msgid "Pricing"
+msgstr ""
+
 #: patterns/services.php:2
 msgctxt "Pattern title"
 msgid "Services"
@@ -843,6 +845,11 @@ msgstr ""
 #: patterns/student-life.php:2
 msgctxt "Pattern title"
 msgid "Student Life"
+msgstr ""
+
+#: patterns/team.php:2
+msgctxt "Pattern title"
+msgid "Team"
 msgstr ""
 
 #: patterns/testimonials.php:2
@@ -865,28 +872,24 @@ msgid ""
 "lorem. Pellentesque auctor neque nec urna. Nunc nec neque."
 msgstr ""
 
-#: inc/admin/theme-info.php:278
-msgid "Portfolio Pattern"
+#: patterns/team.php:41
+msgid "Principal"
 msgstr ""
 
 #: patterns/footer.php:93
 msgid "Privacy Policy"
 msgstr ""
 
-#: inc/admin/theme-info.php:26
-msgid "Pro Live Demo"
-msgstr ""
-
 #: patterns/services.php:87
 msgid "Process Optimization"
 msgstr ""
 
-#: patterns/why-us.php:83
-msgid "Quality Assurance"
+#: patterns/features-pro.php:20
+msgid "Qualified Teachers"
 msgstr ""
 
-#: inc/admin/theme-info.php:294
-msgid "Questions Welcome - We're here to help"
+#: patterns/why-us.php:83
+msgid "Quality Assurance"
 msgstr ""
 
 #: patterns/call-to-action.php:14
@@ -905,10 +908,6 @@ msgstr ""
 msgid "Research Funding"
 msgstr ""
 
-#: inc/admin/theme-info.php:77
-msgid "Responsive Desgin"
-msgstr ""
-
 #: patterns/footer.php:69
 msgid "Returns"
 msgstr ""
@@ -921,16 +920,35 @@ msgstr ""
 msgid "Risk Management"
 msgstr ""
 
-#: inc/admin/theme-info.php:259
-msgid "Scroll to Top Button"
+#: patterns/banner-pro.php:25
+msgid "Rock Street, San Francisco"
 msgstr ""
 
-#: inc/admin/theme-info.php:113
-msgid "Secure transaction"
+#: patterns/pricing.php:28
+msgid "Science Stream"
 msgstr ""
 
+#: patterns/about-pro.php:49 patterns/about-pro.php:69
 #: patterns/student-life.php:16
 msgid "Sed ut perspiciatis unde omnis iste natus error"
+msgstr ""
+
+#: patterns/about-pro.php:111
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error\n"
+"Sed ut perspiciatis unde omnis iste natus error"
+msgstr ""
+
+#: patterns/about-pro.php:91
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error Sed ut perspiciatis unde "
+"omnis iste natus error"
+msgstr ""
+
+#: patterns/team.php:174
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque laudantium, totam rem aperiam eaque ipsa quae ab illo."
 msgstr ""
 
 #: patterns/about-us.php:19 patterns/attributes.php:18
@@ -939,12 +957,19 @@ msgid ""
 "doloremque laudantium, totam rem aperiam,"
 msgstr ""
 
+#: patterns/about-pro.php:29
+msgid ""
+"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium "
+"doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore "
+"veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+msgstr ""
+
 #: patterns/contact-us.php:63
 msgid "Send Email"
 msgstr ""
 
-#: inc/admin/theme-info.php:86
-msgid "SEO Friendly"
+#: patterns/team.php:75
+msgid "Senior Lecturer"
 msgstr ""
 
 #: patterns/services.php:13
@@ -963,11 +988,15 @@ msgstr ""
 msgid "Shipping Policy"
 msgstr ""
 
+#: patterns/banner-pro.php:71
+msgid "Skills"
+msgstr ""
+
 #: patterns/student-life.php:72
 msgid "Sports Events"
 msgstr ""
 
-#: patterns/banner.php:42
+#: patterns/banner-pro.php:84 patterns/banner.php:42
 msgid "Start Your Journey"
 msgstr ""
 
@@ -989,6 +1018,10 @@ msgstr ""
 msgid "Student Counseling"
 msgstr ""
 
+#: patterns/team.php:143
+msgid "Student Counselor"
+msgstr ""
+
 #: patterns/attributes.php:74
 msgid "Student Faculty Ratio"
 msgstr ""
@@ -999,6 +1032,10 @@ msgstr ""
 
 #: patterns/student-life.php:52
 msgid "Students Club"
+msgstr ""
+
+#: patterns/features-pro.php:14
+msgid "Students Enrolled"
 msgstr ""
 
 #: patterns/student-life.php:12
@@ -1046,10 +1083,6 @@ msgstr ""
 msgid "Terms"
 msgstr ""
 
-#: inc/admin/theme-notice.php:6
-msgid "Theme Info"
-msgstr ""
-
 #. Author of the theme
 msgid "Trendthemeswp"
 msgstr ""
@@ -1058,30 +1091,30 @@ msgstr ""
 msgid "Trusted Proven"
 msgstr ""
 
-#: inc/admin/theme-info.php:200
-msgid "Typography and color options"
-msgstr ""
-
-#: inc/admin/theme-info.php:202
-msgid "Unlimited"
-msgstr ""
-
-#: inc/admin/theme-notice.php:3
-msgid ""
-"Upgrade to the Pro version to unlock advanced blocks and patterns, dedicated "
-"support, and theme installation with demo setup. Experience enhanced "
-"flexibility and receive dedicated support to effortlessly elevate your "
-"website to new heights of excellence."
-msgstr ""
-
 #: patterns/contact-us.php:26
 msgid "Ut varius tincidunt libero. Curabitur at lacus ac velit"
 msgstr ""
 
-#: patterns/faq.php:30
+#: patterns/pricing.php:17
+msgid ""
+"Ut varius tincidunt libero. Curabitur at lacus ac velit ornare lobortis. "
+"Phasellus dolor. Vestibulum "
+msgstr ""
+
+#: patterns/banner-pro.php:76 patterns/faq.php:30
 msgid ""
 "Ut varius tincidunt libero. Curabitur at lacus ac velit ornare lobortis. "
 "Phasellus dolor. Vestibulum ante ipsum primis in faucibus orci luctus et"
+msgstr ""
+
+#: patterns/faq-pro.php:26
+msgid ""
+"Ut varius tincidunt libero. Curabitur at lacus ac velit ornare lobortis. "
+"Phasellus dolor. Vestibulum ante ipsum primis in faucibus orci luctus et "
+msgstr ""
+
+#: patterns/pricing.php:12
+msgid "View our pricing plans"
 msgstr ""
 
 #: patterns/attributes.php:30
@@ -1092,8 +1125,33 @@ msgstr ""
 msgid "Visit Our College"
 msgstr ""
 
+#: patterns/faq-pro.php:42
+msgid ""
+"We analyze your goals, assess challenges, develop custom strategies, and "
+"collaborate closely throughout implementation to ensure effective, "
+"sustainable, and result-driven solutions."
+msgstr ""
+
 #: patterns/why-us.php:29
 msgid "We Believe we will be successful if our clients Are Sucessful"
+msgstr ""
+
+#: patterns/about-pro.php:25
+msgid "We Help Students Reach Their"
+msgstr ""
+
+#: patterns/faq-pro.php:36
+msgid ""
+"We offer strategic consulting, business planning, digital solutions, project "
+"management, and operational improvements tailored to help clients achieve "
+"measurable growth."
+msgstr ""
+
+#: patterns/faq-pro.php:48
+msgid ""
+"We serve a wide range of industries including finance, healthcare, "
+"technology, education, retail, and manufacturing with specialized, industry-"
+"specific consulting solutions."
 msgstr ""
 
 #: patterns/why-us.php:33
@@ -1104,12 +1162,20 @@ msgid ""
 "with creativity to bring your vision to life."
 msgstr ""
 
+#: patterns/faq-pro.php:47
+msgid "Which industries do you serve?"
+msgstr ""
+
 #: patterns/banner.php:57 patterns/why-us.php:19
 msgid "Why Choose Us"
 msgstr ""
 
 #: patterns/about-us.php:30
 msgid "YEARS"
+msgstr ""
+
+#: patterns/features-pro.php:32
+msgid "Years of Excellence"
 msgstr ""
 
 #: patterns/testimonials.php:34

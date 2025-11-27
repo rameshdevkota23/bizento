@@ -1,4 +1,4 @@
-=== bizento ===
+=== bizento Pro ===
 
 Contributors: Trendthemeswp
 Author: Trendthemeswp

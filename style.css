@@ -1,6 +1,6 @@
 /*
-Theme Name: Bizento
-Theme URI: https://trendthemeswp.com/products/bizento/
+Theme Name: Bizento Pro
+Theme URI: https://trendthemeswp.com/products/bizento-pro/
 Author: Trendthemeswp 
 Author URI: https://trendthemeswp.com
 Description: Bizento is a sleek and professional Full Site Editing (FSE) WordPress theme crafted for modern businesses, startups, agencies, consulting firms, corporate websites, digital marketing companies, finance, IT solutions, SaaS, and technology-driven projects. With its intuitive design and no-coding customization, you can effortlessly build and tailor every part of your site—from headers to footers. Packed with pre-built templates, block patterns, and multiple style variations, bizento ensures your website looks polished, responsive, and ready to impress clients. Perfect for creating a strong online presence with speed, flexibility, and style. Check the real demo:  https://demos.trendthemeswp.com/bizento
@@ -374,3 +374,67 @@ box-shadow: rgba(72, 72, 72, 0.1) 0px 4px 12px;
 .box-banner{
  background-color: rgba(0, 34, 108, 0.25);
 }
+.contact-icon::before{
+    cursor: pointer;
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f095';
+	padding-right: 5px;
+}
+.mail-icon::before{
+    cursor: pointer;
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f0e0';
+	padding-right: 5px;
+}
+.location-icon::before{
+    cursor: pointer;
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f3c5';
+	padding-right: 5px;
+}
+.horizental-line-header{
+  color: #ededed1f!important;
+}
+/* scrool to top */
+.bizento-scrool-top::before{
+    font-size: 30px;
+    cursor: pointer;
+    background: var(--wp--preset--color--theme); 
+    color:  var(--wp--preset--color--primary);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f077'; 
+    position: fixed;
+    bottom: 50px;
+    right: 30px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    z-index: 99;
+}
+/* sticky header start*/
+ 
+ @media screen and (min-width: 600px) {
+    .wb-header-wrapper.is-sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    background: #08133d !important;
+}
+    }
+
+ /* sticky header end */
